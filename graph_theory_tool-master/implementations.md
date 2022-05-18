@@ -1,0 +1,5 @@
+- Longest/Shortest Cycle ()
+- Hamiltonian Paths / Euler Tours / Euler Circuits (subgraph)
+- Planarity (boolean)
+- Spanning Trees (number)
+- Components (number of components, vertices in each component)

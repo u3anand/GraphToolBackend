@@ -1,0 +1,8 @@
+/back/.idea
+/back/venv
+/back/config.cfg
+/front/.eslintcache
+/back/graphtt/config.cfg
+/front2
+# Local Netlify folder
+.netlify
